@@ -3,7 +3,7 @@ package or_OF;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class ObjectRepository{
+public class ObjectRepository{  // OBJECT REPOSITORY for ONE_FREIGHT application:
 	
 //------------	
 //Login Page: 
