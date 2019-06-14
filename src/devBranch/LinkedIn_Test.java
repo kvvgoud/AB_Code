@@ -1,9 +1,7 @@
 package devBranch;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.BeforeTest;
 import org.openqa.selenium.By;
-import org.testng.annotations.AfterTest;
 
 public class LinkedIn_Test extends Base{
  
