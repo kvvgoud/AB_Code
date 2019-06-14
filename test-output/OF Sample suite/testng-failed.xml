@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [OF Sample suite]">
+  <test thread-count="5" name="OF Sample test(failed)">
+    <classes>
+      <class name="devBranch.LinkedIn_Test">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="f"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- devBranch.LinkedIn_Test -->
+    </classes>
+  </test> <!-- OF Sample test(failed) -->
+</suite> <!-- Failed suite [OF Sample suite] -->

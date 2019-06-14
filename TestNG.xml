@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OF Sample suite">
+  <test name="OF Sample test">
+    <classes>
+      <class name="devBranch.FB_Test"/>
+      <class name="devBranch.LinkedIn_Test"/>
+      <class name="devBranch.OF_TC1"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

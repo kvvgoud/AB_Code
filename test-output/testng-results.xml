@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="7" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OF Sample suite" duration-ms="62894" started-at="2019-06-13T11:23:52Z" finished-at="2019-06-13T11:24:54Z">
+    <groups>
+    </groups>
+    <test name="OF Sample test" duration-ms="62894" started-at="2019-06-13T11:23:52Z" finished-at="2019-06-13T11:24:54Z">
+      <class name="devBranch.OF_TC1">
+        <test-method status="PASS" signature="OF_FirstTest()[pri:0, instance:devBranch.OF_TC1@75412c2f]" name="OF_FirstTest" duration-ms="38146" started-at="2019-06-13T11:24:15Z" finished-at="2019-06-13T11:24:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OF_FirstTest -->
+      </class> <!-- devBranch.OF_TC1 -->
+      <class name="devBranch.LinkedIn_Test">
+        <test-method status="PASS" signature="f()[pri:0, instance:devBranch.LinkedIn_Test@50cbc42f]" name="f" duration-ms="8154" started-at="2019-06-13T11:24:07Z" finished-at="2019-06-13T11:24:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- devBranch.LinkedIn_Test -->
+      <class name="devBranch.FB_Test">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:devBranch.FB_Test@1c53fd30]" name="beforeTest" is-config="true" duration-ms="4346" started-at="2019-06-13T11:23:52Z" finished-at="2019-06-13T11:23:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:devBranch.FB_Test@1c53fd30]" name="f" duration-ms="11291" started-at="2019-06-13T11:23:56Z" finished-at="2019-06-13T11:24:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:devBranch.FB_Test@1c53fd30]" name="afterTest" is-config="true" duration-ms="953" started-at="2019-06-13T11:24:54Z" finished-at="2019-06-13T11:24:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- devBranch.FB_Test -->
+    </test> <!-- OF Sample test -->
+  </suite> <!-- OF Sample suite -->
+</testng-results>
